@@ -1,0 +1,17 @@
+{
+  "name": "amd-to-common-rewrite",
+  "version": "0.0.1",
+  "description": "A transform to convert AMD packages to Common JS",
+  "main": "index.js",
+  "dependencies": {
+    "escodegen": "^1.8.0",
+    "esprima": "^2.7.2",
+    "lodash": "^4.13.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christopher Smith",
+  "license": "ISC"
+}
